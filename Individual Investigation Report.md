@@ -1,5 +1,5 @@
 ---
-title: Individual Investigation Report - [Subject Name]
+title: Individual Investigation Report - [John Doe]
 date: 
 tags: [individual-investigation, personal-background, SubjectName]
 status: [Not Started, In Progress, Completed, On Hold]
